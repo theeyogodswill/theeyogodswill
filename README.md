@@ -3,9 +3,8 @@ Hi, I'm Godswill Eyo
 
 
 
-- 👀 I’m interested in Web Design, Web Development, and UI/UX Design
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Fin-Tech Projects
+- 👀 I’m interested in Full-Stack Development, Currently on my Frontend Development journey
+- 🌱 Currently learning Javascript, practicing Javascript projects
 - 📫 You can reach me via email eyogodswill1@gmail.com
 
 <!---

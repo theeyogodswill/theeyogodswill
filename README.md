@@ -4,7 +4,7 @@ Hi, I'm Godswill Eyo
 
 
 - 👀 I’m interested in Full-Stack Development, Currently on my Frontend Development journey
-- 🌱 Currently learning Javascript, practicing Javascript projects
+- 🌱 Currently learning Javascript,React,Python, C++, practicing Javascript projects
 - 📫 You can reach me via email eyogodswill1@gmail.com
 
 <!---
